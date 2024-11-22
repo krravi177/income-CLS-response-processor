@@ -1,2 +1,2 @@
 # income-CLS-response-processor
-LOAN Organisation System
+Application from VOIE module to send response back to CLS.
